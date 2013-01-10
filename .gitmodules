@@ -1,0 +1,3 @@
+[submodule "gnucashxml"]
+	path = gnucashxml
+	url = git://github.com/jorgenschaefer/gnucashxml.git
